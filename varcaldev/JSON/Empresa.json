@@ -1,0 +1,19 @@
+{
+    "empresa": [
+        {
+            "nombre": "Fletes G.A.G., C.A.",
+            "rif": "J-30082099-8",
+            "celular": "3167246324",
+            "telefono": "4316572",
+            "email": "empresaficticia@gmail.com",
+            "direstado": "Dtto. Capital",
+            "dirciudad":"cali",
+            "dirmunicipio":"yumbo",
+            "dirparroquia":"antioquia",
+            "direccion":"B/ caracoles, Av. corrales",
+            "website": "www.cargvamos.com",
+            "postal": "1800",
+            "notas":"notas"
+        }
+    ]
+}
